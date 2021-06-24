@@ -1,0 +1,10 @@
+.menu__item-link {
+  font-size: 18px;
+  line-height: 21.6px;
+  text-decoration: none;
+  color: #000000;
+  transition: opacity 0.5s linear;
+}
+.menu__item-link:hover {
+  opacity: 40%;
+}

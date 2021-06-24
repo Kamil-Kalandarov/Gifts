@@ -1,0 +1,7 @@
+.social-icons__icon {
+  width: 38.4px;
+  transition: opacity 0.5s linear;
+}
+.social-icons__icon:hover {
+  opacity: 40%;
+}

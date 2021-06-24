@@ -1,0 +1,7 @@
+.card__text {
+  height: 166px;
+  background-color: #FAFAFA;
+}
+.card__text:hover {
+  background-color: #FFFFFF;
+}

@@ -1,0 +1,10 @@
+.blog__main-link {
+  font-size: 18px;
+  line-height: 25.31px;
+  text-decoration: none;
+  color: #fff;
+  transition: opacity 0.5s linear;
+}
+.blog__main-link:hover {
+  opacity: 40%;
+}

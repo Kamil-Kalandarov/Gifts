@@ -1,0 +1,7 @@
+.gifts__list {
+  list-style: none;
+  display: flex;
+  padding-left: 0;
+  padding-top: 64px;
+  margin: 0;
+}

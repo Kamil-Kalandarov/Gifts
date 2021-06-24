@@ -1,0 +1,6 @@
+.social-icons__item {
+  padding-right: 25.6px;
+}
+.social-icons__item:last-child {
+  padding: 0;
+}

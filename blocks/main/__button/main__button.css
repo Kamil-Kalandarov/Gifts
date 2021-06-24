@@ -1,0 +1,11 @@
+.main__button {
+  width: 200px;
+  height: 60px;
+  padding: 0;
+  margin: 0;
+  margin-left: 142px;
+  align-self: flex-start;
+  font-size: 18px;
+  line-height: 21.6px;
+  cursor: pointer;
+}

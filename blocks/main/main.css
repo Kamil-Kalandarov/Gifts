@@ -1,0 +1,7 @@
+.main {
+  height: 1300px;
+  display: grid;
+  grid-template-columns: 721px 719px;
+  margin: 0;
+  background-color: #F1F1F2;
+}

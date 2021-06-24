@@ -1,0 +1,8 @@
+.blog__main-post {
+  display: flex;
+  width: 1170px;
+  height: 370px;
+  padding: 0;
+  padding-bottom: 40px;
+  padding-top: 71px;
+}

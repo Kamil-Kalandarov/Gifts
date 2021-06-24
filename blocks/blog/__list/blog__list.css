@@ -1,0 +1,8 @@
+.blog__list {
+  width: 1170px;
+  margin: 0;
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+  padding: 0;
+}

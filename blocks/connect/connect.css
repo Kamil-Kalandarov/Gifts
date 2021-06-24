@@ -1,0 +1,7 @@
+.connect {
+    height: 240px;
+    background-color: #F7941E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

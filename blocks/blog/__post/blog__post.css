@@ -1,0 +1,13 @@
+.blog__post {
+  display: flex;
+  flex-direction: column;
+  width: 570px;
+  height: 290px;
+  margin-right: 30px;
+}
+.blog__post:last-child {
+  margin-right: 0;
+}
+.blog__post:hover {
+  box-shadow: 10px 10px 15px 0px #0000000D;
+}

@@ -1,0 +1,12 @@
+.blog__link {
+  text-decoration: none;
+  color: #000;
+  font-family: Gilroy;
+  font-size: 14px;
+  line-height: 20px;
+  padding-left: 40px;
+  transition: opacity 0.5s linear;
+}
+.blog__link:hover {
+  opacity: 40%;
+}

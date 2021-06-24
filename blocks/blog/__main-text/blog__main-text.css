@@ -1,0 +1,8 @@
+.blog__main-text {
+  display: flex;
+  flex-direction: column;
+  background-color: #231F20;
+  flex-grow: 1;
+  padding-left: 78px;
+  padding-top: 63px;
+}

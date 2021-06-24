@@ -1,0 +1,24 @@
+@font-face {
+  src:
+  url(./gilory/Gilroy-Regular.woff2) format('woff2'),
+  url(./gilory/Gilroy-Regular.woff) format('woff');
+  font-family: 'Gilory';
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  src:
+  url(./gilory/Gilroy-Bold.woff2) format('woff2'),
+  url(./gilory/Gilroy-Bold.woff) format('woff');
+  font-family: 'Gilory';
+  font-style: normal;
+  font-weight: bold;
+}
+@font-face {
+  src:
+  url(./roboto/Roboto-Regular.woff2) format('woff2'),
+  url(./roboto/Roboto-Regular.woff) format('woff');
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: normal;
+}

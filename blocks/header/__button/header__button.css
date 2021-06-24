@@ -1,0 +1,11 @@
+.header__button {
+  border: 1px solid #F7941E;
+  width: 150px;
+  height: 43.5px;
+  font-size: 18px;
+  background-color: white;
+  color: #F7941E;
+  margin-right: 34px;
+  padding: 0px;
+  cursor: pointer;
+}

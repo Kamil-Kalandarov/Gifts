@@ -1,0 +1,10 @@
+.card__link {
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  padding-left: 24px;
+  text-decoration: none;
+  color: #000000;
+  transition: opacity 0.5s linear;
+}
+.card__link:hover {
+  opacity: 40%;
+}

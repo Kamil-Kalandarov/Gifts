@@ -1,0 +1,8 @@
+.blog {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 88px;
+  padding-bottom: 80px;
+}

@@ -1,0 +1,6 @@
+.menu__item-footer:first-child {
+  padding-right: 81px;
+}
+.menu__item-footer:nth-child(4n) {
+  padding-right: 54px;
+}
