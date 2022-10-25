@@ -1,3 +1,3 @@
 # Gifts
 Набросок сайта подарков
-ссылка на рпоект https://kamil-kalandarov.github.io/Gifts/
+ссылка на проект https://kamil-kalandarov.github.io/Gifts/
